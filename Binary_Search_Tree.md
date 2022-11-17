@@ -19,3 +19,5 @@
                               2   4
                     
                     
+-----
+#[https://www.patika.dev/tr] ekibine teşekkürler.
