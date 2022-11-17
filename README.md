@@ -1,0 +1,1 @@
+# www.patika.dev-Veri_Yap-lar-_Ve_Algoritmalar
