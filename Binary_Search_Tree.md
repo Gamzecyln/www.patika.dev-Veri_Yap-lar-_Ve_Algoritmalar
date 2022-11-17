@@ -20,4 +20,4 @@
                     
                     
 -----
-#[https://www.patika.dev/tr] ekibine teşekkürler.
+# [https://www.patika.dev/tr] ekibine teşekkürler.
